@@ -1,5 +1,5 @@
 # Sales Analysis Dashboard
-
+![Dashboard Preview]()
 ##  Project Overview
 The Sales Analysis Dashboard is an interactive business intelligence solution built in Microsoft Excel. It helps organizations analyze sales data, identify trends, monitor key performance indicators (KPIs), and gain actionable insights for strategic decision-making.
 
