@@ -1,5 +1,3 @@
-# Sales-Analysis-Dashboard
-Interactive Sales Analysis Dashboard built in Microsoft Excel to analyze sales performance, revenue trends, profit metrics, and product insights. Features dynamic visualizations, KPI tracking, regional comparisons, and data-driven reporting using Pivot Tables, Charts, and Dashboarding techniques.
 # Sales Analysis Dashboard
 
 ##  Project Overview
